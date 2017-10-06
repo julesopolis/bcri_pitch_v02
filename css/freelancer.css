@@ -448,3 +448,9 @@ footer {
 .btn:active,
 .btn:focus {
   outline: none; }
+<---CustomCss--->
+
+#map-container {
+ /*   text-align: center;*/
+}
+
